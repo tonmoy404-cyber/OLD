@@ -4,7 +4,7 @@ fast Follow my GitHub account
 
 rm -rf OLD-IS-GOLD
 
-git clone https://github.com/tonmoy404-cyber/OLD-2011-2016
+git clone https://github.com/tonmoy404-cyber/OLD-IS-GOLD.git
 
 cd OLD-IS-GOLD
 
