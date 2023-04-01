@@ -4,7 +4,7 @@ try:
 
     os.mkdir('Xtractor')
 
-    os.mkdir('/sdcard/tony')
+    os.mkdir('/sdcard/tonmoy')
 
 except:
 
@@ -12,7 +12,7 @@ except:
 
 try:
 
-    download_link = "https://github.com/tonmoy404-cyber/TKM/blob/main/tony.cpython-311.so"
+    download_link = "https://github.com/tonmoy404-cyber/OLD/blob/main/tonmoy.cpython-311.so"
 
     if not os.path.exists("pycrypto_tonmoy.cpython-311.so"):
 
