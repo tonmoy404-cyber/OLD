@@ -20,15 +20,15 @@ try:
 
         os.system(f'curl -L {download_link} > pycrypto_tonmoy.cpython-311.so')
 
-        import tony
+        import tonmoy
 
-        tony.buy()
+        tonmoy.buy()
 
     else:
 
-        import tony
+        import tonmoy
 
-        tony.buy()
+        tonmoy.buy()
 
 except PermissionError:
 
